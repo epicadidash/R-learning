@@ -1,4 +1,4 @@
-hello <- function() { # create a function with the name my_function
+hello <- function() { 
   print("Hello World!")
 }
 hello()
